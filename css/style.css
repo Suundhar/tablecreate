@@ -1,0 +1,18 @@
+table{
+    width: fit-content;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th{
+    border: 2px solid black;
+    color: red;
+    background-color: aqua;
+}
+td{
+    border: 2px solid black;
+    color: blue;
+    background-color: brown;
+}
+body{
+    background-color: blue;
+}
